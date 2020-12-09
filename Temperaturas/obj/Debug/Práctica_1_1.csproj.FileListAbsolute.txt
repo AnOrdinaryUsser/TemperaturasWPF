@@ -1,0 +1,28 @@
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\bin\Debug\Práctica_1_1.exe
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\bin\Debug\Práctica_1_1.pdb
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\MainWindow.g.cs
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\App.g.cs
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1_MarkupCompile.cache
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1_MarkupCompile.lref
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\MainWindow.baml
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1.g.resources
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1.Properties.Resources.resources
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1.exe
+C:\Users\sergi\source\repos\Práctica_1_1\Práctica_1_1\obj\Debug\Práctica_1_1.pdb
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\bin\Debug\Práctica_1_1.exe
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\bin\Debug\Práctica_1_1.pdb
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\MainWindow.g.cs
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\App.g.cs
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1_MarkupCompile.cache
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1_MarkupCompile.lref
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\MainWindow.baml
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1.g.resources
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1.Properties.Resources.resources
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1.exe
+C:\Users\sergi\source\repos\Práctica_1_1 (Temperatura)\Práctica_1_1\obj\Debug\Práctica_1_1.pdb
